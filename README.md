@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-Discription
+Description
 
 contact app is a android application developed using flutter sdk and hive in this app we can add delete edit and read contact and also we can add the contact to favorite list and remove from favorite list 
